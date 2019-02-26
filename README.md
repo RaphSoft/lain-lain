@@ -3,6 +3,7 @@ Cara menggunakannya:
 $ apt update && apt upgrade
 $ pkg install python
 $ pkg install python2
+$ pkg install figlet
 $ pkg install git
 $ pkg install 
 $ git clone https://github.com/RaphSoft/lain-lain.git
