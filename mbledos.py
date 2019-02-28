@@ -34,7 +34,7 @@ def main():
     print"\033[91m=========================================="
     print" "
     print"\033[92mJika terjadi kesalahan pada program atau bug"
-    print"          \033[92mDM atau porkan ke:"
+    print"          \033[92mDM atau laporkan ke:"
     print" "
     print"\033[92mFB: Om Telolet Om"
     print"\033[92mIG: yogadwiayudianto_34"
