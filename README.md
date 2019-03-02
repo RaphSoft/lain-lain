@@ -25,6 +25,12 @@ IG: yogadwiayudianto_34
 
 Indonesia
 
+Petunjuk
+
+Bahan:
+- Koneksi internet
+- Aplikasi termux
+
 Cara menggunakannya:
 
 $ apt update && apt upgrade
